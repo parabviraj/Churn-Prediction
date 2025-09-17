@@ -18,7 +18,7 @@ import joblib
 
 # -----------------------------------------------------------------
 # Load Data
-df = pd.read_csv('T.csv')
+df = pd.read_csv('Churn_file.csv')
 print(df.head())
 print(df.shape)
 print(df.info())
